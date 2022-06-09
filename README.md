@@ -1,8 +1,6 @@
 # Investment-Assignment
 ![SparkFund](https://www.sparkfund.com/wp-content/uploads/2018/05/sparkfund-logo-768x177.png)
 
-To understand the global trends in investments so that investment decisions can be made effectively. Spark Funds wants to invest where most other investors are investing.
-
 ## Project Brief:
 Spark Funds, an asset management company which wants to make investments in a few companies. The CEO of Spark Funds wants to understand the global trends in investments so that she can take the investment decisions effectively.Spark Funds wants to invest where most other investors are investing. This pattern is often observed among early stage startup investors.We have taken real investment data from crunchbase.com, so the insights we get may be incredibly useful.
 
